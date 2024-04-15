@@ -4,7 +4,7 @@
     "description": "Storage core for GramIO",
     "main": "dist/index.js",
     "type": "commonjs",
-    "homepage": "https://github.com/gramiojs/storage",
+    "homepage": "https://github.com/gramiojs/storages",
     "readme": "https://gramio.netlify.app/",
     "scripts": {
         "prepublishOnly": "bunx tsc && bunx tsc-alias"
